@@ -65,15 +65,15 @@ const translations = {
         "nav-home": "Beranda",
         "nav-about": "Tentang",
         "nav-skills": "Keahlian",
-        "nav-projects": "Proyek",
+        "nav-projects": "Karya",
         "nav-experience": "Pengalaman",
         "nav-contact": "Kontak",
 
         "hero-eyebrow": "HALO, SELAMAT DATANG DI PORTOFOLIO SAYA",
         "hero-intro": "Saya seorang",
         "hero-role": "Web Developer",
-        "hero-description": "Lulusan baru Teknologi Informasi yang tertarik mengembangkan website dan aplikasi web dengan tampilan yang menarik, fungsional, serta mudah digunakan.",
-        "hero-projects": "Lihat Proyek",
+        "hero-description": "Lulusan D3 Teknologi Informasi Politeknik Negeri Madiun yang tertarik pada pengembangan website dan aplikasi. Memiliki pengalaman dalam pengembangan web dan perancangan antarmuka pengguna melalui kegiatan perkuliahan. Terbiasa bekerja dalam tim, bertanggung jawab terhadap tugas, dan terus berusaha meningkatkan kemampuan.",
+        "hero-projects": "Lihat Karya",
         "hero-cv": "Unduh CV",
         "hero-contact": "Hubungi Saya ↗",
         "hero-profile-description": "Frontend & Backend Development",
@@ -88,7 +88,7 @@ const translations = {
         "about-subtitle": "Sedikit cerita tentang latar belakang dan minat saya.",
         "about-heading": "Bersemangat membangun solusi digital melalui teknologi web.",
         "about-paragraph-one": "Saya merupakan lulusan D3 Teknologi Informasi dari Politeknik Negeri Madiun. Saya memiliki ketertarikan pada pengembangan website, mulai dari membangun antarmuka hingga mengembangkan fungsionalitas backend.",
-        "about-paragraph-two": "Melalui perkuliahan, proyek, dan pengalaman magang, saya belajar mengembangkan aplikasi menggunakan berbagai teknologi web. Saya juga terbuka untuk mempelajari teknologi baru dan terus meningkatkan kemampuan melalui pengalaman langsung.",
+        "about-paragraph-two": "Melalui perkuliahan, Karya, dan pengalaman magang, saya belajar mengembangkan aplikasi menggunakan berbagai teknologi web. Saya juga terbuka untuk mempelajari teknologi baru dan terus meningkatkan kemampuan melalui pengalaman langsung.",
         "about-paragraph-three": "Saya berusaha menyelesaikan tugas dengan bertanggung jawab, bekerja sama dalam tim, dan memberikan hasil terbaik sesuai kemampuan yang dimiliki.",
         "about-link": "Mari terhubung dengan saya →",
         "highlight-one-title": "Web Development",
@@ -100,30 +100,30 @@ const translations = {
 
         "skills-eyebrow": "KEMAMPUAN SAYA",
         "skills-title": "Keahlian",
-        "skills-subtitle": "Teknologi yang pernah saya gunakan dalam pembelajaran dan proyek.",
+        "skills-subtitle": "Teknologi yang pernah saya gunakan dalam pembelajaran.",
         "skills-frontend": "Frontend",
         "skills-backend": "Backend",
         "skills-database": "Database",
         "skills-mobile": "Mobile Development",
         "skills-design": "Desain",
         "skills-tools": "Tools",
-        "skills-note": "Daftar ini dapat disesuaikan dengan teknologi yang benar-benar dikuasai dan pernah digunakan dalam proyek.",
+        "skills-note": "Daftar ini dapat disesuaikan dengan teknologi yang benar-benar dikuasai dan pernah digunakan dalam Karya.",
 
         "projects-eyebrow": "HASIL KARYA",
-        "projects-title": "Proyek Pilihan",
-        "projects-subtitle": "Beberapa proyek yang saya kerjakan selama perkuliahan dan magang.",
-        "project-type-academic": "Proyek Akademik",
-        "project-type-internship": "Proyek Magang",
+        "projects-title": "Karya Pilihan",
+        "projects-subtitle": "Beberapa Karya yang saya kerjakan selama perkuliahan dan magang.",
+        "project-type-academic": "Karya Akademik",
+        "project-type-internship": "Karya Magang",
         "fleet-title": "Sistem Manajemen Armada PNM",
         "fleet-description": "Sistem pengelolaan peminjaman kendaraan operasional dengan antrean FCFS dan fitur pendukung manajemen armada.",
         "notary-title": "Sistem Informasi e-Notaris dan PPAT",
         "notary-description": "Pengembangan sistem informasi berbasis web untuk mendukung pengelolaan informasi layanan notaris dan PPAT.",
         "invitation-label": "THE WEDDING OF",
         "invitation-title": "Website Undangan Pernikahan",
-        "invitation-description": "Pembuatan dua proyek website undangan pernikahan dengan fokus pada desain antarmuka dan implementasi HTML/CSS.",
-        "project-detail": "Detail Proyek +",
+        "invitation-description": "Pembuatan dua Karya website undangan pernikahan dengan fokus pada desain antarmuka dan implementasi HTML/CSS.",
+        "project-detail": "Detail Karya +",
         "ask-project": "Minta Informasi ↗",
-        "dialog-eyebrow": "DETAIL PROYEK",
+        "dialog-eyebrow": "DETAIL KARYA",
         "dialog-tech-title": "Teknologi yang Digunakan",
         "dialog-github": "Lihat Repository",
 
@@ -133,7 +133,7 @@ const translations = {
         "internship-date": "Januari – Juni 2025",
         "internship-title": "Technical Support / Web Development Intern",
         "internship-location": "Yogyakarta, Indonesia",
-        "internship-task-one": "Mengembangkan dua proyek website undangan pernikahan menggunakan HTML dan CSS.",
+        "internship-task-one": "Mengembangkan dua Karya website undangan pernikahan menggunakan HTML dan CSS.",
         "internship-task-two": "Terlibat dalam pengembangan sistem informasi e-Notaris dan PPAT berbasis Laravel.",
         "internship-task-three": "Membantu pembuatan artikel dan konten informasi.",
         "education-date": "Lulus 2026",
@@ -161,15 +161,15 @@ const translations = {
         "nav-home": "Home",
         "nav-about": "About",
         "nav-skills": "Skills",
-        "nav-projects": "Projects",
+        "nav-projects": "My Work",
         "nav-experience": "Experience",
         "nav-contact": "Contact",
 
         "hero-eyebrow": "HELLO, WELCOME TO MY PORTFOLIO",
         "hero-intro": "I am a",
         "hero-role": "Web Developer",
-        "hero-description": "An Information Technology graduate interested in building attractive, functional, and user-friendly websites and web applications.",
-        "hero-projects": "View Projects",
+        "hero-description": "A recent Diploma in Information Technology graduate from Politeknik Negeri Madiun with an interest in website and application development. Gained experience in web development and user interface design through academic activities. Accustomed to working in a team, taking responsibility for assigned tasks, and continuously improving technical skills.",
+        "hero-projects": "View My Work",
         "hero-cv": "Download CV",
         "hero-contact": "Contact Me ↗",
         "hero-profile-description": "Frontend & Backend Development",
@@ -196,7 +196,7 @@ const translations = {
 
         "skills-eyebrow": "WHAT I CAN DO",
         "skills-title": "Skills",
-        "skills-subtitle": "Technologies I have used in learning and projects.",
+        "skills-subtitle": "Technologies I have used in learning.",
         "skills-frontend": "Frontend",
         "skills-backend": "Backend",
         "skills-database": "Database",
@@ -375,6 +375,7 @@ const dialogClose = document.getElementById("dialog-close");
 const dialogTitle = document.getElementById("dialog-title");
 const dialogDescription = document.getElementById("dialog-description");
 const dialogTechnologies = document.getElementById("dialog-technologies");
+const dialogGalleryGrid = document.getElementById("dialog-gallery-grid");
 const dialogLink = document.getElementById("dialog-link");
 
 const projectDetails = {
@@ -385,12 +386,19 @@ const projectDetails = {
         },
 
         description: {
-            id: "Proyek akademik berupa sistem informasi untuk mendukung pengelolaan peminjaman kendaraan operasional. Sistem dirancang dengan alur pengajuan dan pemeriksaan ketersediaan kendaraan serta pendekatan antrean First Come First Served (FCFS). Sesuaikan deskripsi ini dengan fitur yang sudah benar-benar selesai.",
+            id: "Karya akademik berupa sistem informasi untuk mendukung pengelolaan peminjaman kendaraan operasional. Sistem dirancang dengan alur pengajuan dan pemeriksaan ketersediaan kendaraan serta pendekatan antrean First Come First Served (FCFS). Sesuaikan deskripsi ini dengan fitur yang sudah benar-benar selesai.",
 
             en: "An academic information system designed to support operational vehicle bookings. It includes a booking and vehicle-availability review flow and uses a First Come First Served (FCFS) queue approach. Adjust this description to match the features that are actually complete."
         },
 
         technologies: ["Laravel", "MySQL", "Flutter"],
+
+        // Letakkan file gambar di folder assets, lalu sesuaikan nama file di bawah.
+        gallery: [
+            { src: "assets/armada-web-dashboard.png", alt: "Dashboard web Sistem Armada PNM", caption: { id: "Dashboard web", en: "Web dashboard" } },
+            { src: "assets/armada-web-booking.png", alt: "Halaman peminjaman kendaraan", caption: { id: "Peminjaman kendaraan", en: "Vehicle booking" } },
+            { src: "assets/armada-mobile.png", alt: "Tampilan aplikasi mobile Armada PNM", caption: { id: "Aplikasi mobile", en: "Mobile application" } }
+        ],
 
         link: "https://github.com/zahynadhirnashrullah/SISTEM-ARMADA-PNM"
     },
@@ -402,12 +410,17 @@ const projectDetails = {
         },
 
         description: {
-            id: "Proyek selama magang yang berfokus pada pengembangan sistem informasi berbasis web menggunakan Laravel dan MySQL untuk mendukung pengelolaan informasi layanan notaris dan PPAT. Perbarui deskripsi ini sesuai kontribusi dan fitur yang kamu kerjakan.",
+            id: "Karya selama magang yang berfokus pada pengembangan sistem informasi berbasis web menggunakan Laravel dan MySQL untuk mendukung pengelolaan informasi layanan notaris dan PPAT. Perbarui deskripsi ini sesuai kontribusi dan fitur yang kamu kerjakan.",
 
             en: "An internship project focused on developing a web-based information system using Laravel and MySQL to support notary and PPAT service information. Update this description to reflect your own contributions and completed features."
         },
 
         technologies: ["Laravel", "PHP", "MySQL", "AdminLTE"],
+
+        gallery: [
+            { src: "assets/notaris-dashboard.png", alt: "Dashboard sistem e-Notaris dan PPAT", caption: { id: "Dashboard sistem", en: "System dashboard" } },
+            { src: "assets/notaris-data-klien.png", alt: "Halaman pengelolaan data klien", caption: { id: "Pengelolaan data klien", en: "Client data management" } }
+        ],
 
         link: "https://github.com/"
     }
@@ -429,6 +442,34 @@ function openProjectDialog(projectKey) {
 
     if (dialogDescription) {
         dialogDescription.textContent = project.description[language];
+    }
+
+    if (dialogGalleryGrid) {
+        dialogGalleryGrid.replaceChildren();
+
+        (project.gallery || []).forEach(function (item) {
+            const figure = document.createElement("figure");
+            figure.className = "dialog-gallery-item";
+
+            const imageLink = document.createElement("a");
+            imageLink.href = item.src;
+            imageLink.target = "_blank";
+            imageLink.rel = "noopener noreferrer";
+            imageLink.setAttribute("aria-label", item.alt);
+
+            const image = document.createElement("img");
+            image.src = item.src;
+            image.alt = item.alt;
+            image.loading = "lazy";
+            image.onerror = function () { figure.hidden = true; };
+
+            const caption = document.createElement("figcaption");
+            caption.textContent = item.caption[language];
+
+            imageLink.appendChild(image);
+            figure.append(imageLink, caption);
+            dialogGalleryGrid.appendChild(figure);
+        });
     }
 
     if (dialogTechnologies) {
